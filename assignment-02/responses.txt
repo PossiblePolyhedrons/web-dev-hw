@@ -1,0 +1,8 @@
+
+6. Data travels on the internet as bits (1s or 0s). Bits make up bytes, bytes make up kilobytes, and kilobytes make up megabytes. Nowadays we transmit bytes using electricity, light, and radio waves. We can use fiberoptic cables to reflect light from one location to another, transmitting bits as we bounce light up and down the cable.
+
+7. The IP address is the unique address of any specific device that connects to the internet network. The DNS is an interface system that enables average users to find/interact with IP addresses without needing to know the specific IP number string, kind of like a phonebook for IP addresses.
+
+8. A cookie is an ID card resulting from your computer transmitting identification data alongside http POST requests.
+
+9. The three parts of a URL are the protocol, domain, and path. Paths extend into becoming files, pages, or queries.
