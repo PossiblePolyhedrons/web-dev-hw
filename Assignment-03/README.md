@@ -6,4 +6,4 @@ A browser is a medium that provides a visual representation of the web content o
 
 Markup language is what "dictates the architecture of the page", meaning that it is what creates/comprises the web page/web application that one intends to view/use. XML is a markup language used to create a web page with elements that can behave independently of the status of the main page they comprise.
 
-[My First Webpage](./Screenshot.PNG)
+[My First Webpage](./FirstWebpage.png)
