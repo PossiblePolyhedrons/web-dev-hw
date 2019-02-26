@@ -29,4 +29,6 @@ I experimented with placing image links both inside and outside headers before d
 
           ![PB Cookies](./images/healthy pb cookies.png)
 
-I would like to learn how to manipulate photo sizes within the image reference. Googling the problem led me to working with the <img> command and I don't know what difference there is between that and the method I'm currently using to link images or if they're functionally the same.
+A reoccurring problem was the image link not displaying an image in the markdown preview but not on the live site.
+
+I would like to learn how to manipulate photo sizes within the image link.
