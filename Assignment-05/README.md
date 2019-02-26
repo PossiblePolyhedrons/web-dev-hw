@@ -29,6 +29,6 @@ I experimented with placing image links both inside and outside headers before d
 
           ![PB Cookies](./images/healthy pb cookies.png)
 
-A reoccurring problem was the image link not displaying an image in the markdown preview but not on the live site.
+A reoccurring problem was the image link not displaying an image in the markdown preview but not on the live site. Fixed by using the <img> command instead of the ![title](/.image) method. I suspect the latter only sources the file locally.
 
 I would like to learn how to manipulate photo sizes within the image link.
