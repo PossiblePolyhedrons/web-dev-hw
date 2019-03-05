@@ -1,5 +1,4 @@
 
-
 13.) I am uncertain whether "document <head> and <body> elements" refers to directly to the <head> and <body> elements used for structure or the metadata managing/structural/semantic markup-ing tool elements used to actually create the webpage.
 
 For the latter, one's use of <head> elements seems limited by the amount of metadata needed to be managed/indexed and how much detail involved in the 'look' of the site. The number of <body> elements seems capped only by the amount of content/data one intends to present users with. The <body> elements involved would manipulate the format and emphasis of the content nigh-on endlessly, although this is unlikely to result in a quality web page.
