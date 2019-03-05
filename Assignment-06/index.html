@@ -1,3 +1,5 @@
+<!DOCTYPE html>
+
 <html>
 
     <head>
@@ -13,10 +15,13 @@
           <meta name="viewport" content="width=device-width, inital-scale=1.0">
 
           <style>
-            table, th, td {
-              border: 1px solid black;
-            }
+            h1 {color:blue;}
+            table {border: 1px solid black;}
+            th {border: 1px solid black;}
+            td {border: 1px solid black;}
           </style>
+
+      <!-- Table styling not displaying in markdown preview but displays as intended on livesite -->
 
     </head>
 
@@ -24,17 +29,11 @@
 
               <address><i>Big Dipper Ice Cream<br>631 S Higgins Ave, Missoula, MT<br>59801</i></address>
               <br>
-              <a href="info@bigdippericecream.com">info@bigdippericecream.com</a>
-
-      <!-- table for company information, such as open hours, international phone numbers, or employee contacts -->
-
-              <br>
-              <br>
+              <a href="info@bigdippericecream.com">info@bigdippericecream.com</a><br><br>
 
               <h1><b>Visit us in these cities across Montana!</b></h1>
 
-
-
+      <!-- Table for hours open -->
 
               <table>
 
@@ -52,10 +51,9 @@
                       <td>12-9PM Sun-Thurs, 12-10PM Fri-Sat</td>
                   </tr>
 
-              </table>
+              </table><br><br>
 
-              <br>
-              <br>
+        <!-- Table for social media links -->
 
               <h3><b>Interact with us on social Media!</b></h3>
 
@@ -90,9 +88,27 @@
                       <td><a href="https://www.instagram.com/bigdipperbillings/">Follow bigdipperbilling!</a></td>
                   </tr>
 
+              </table><br><br>
 
-              </table>
 
+
+              <form action="https://possiblepolyhedrons.github.io/web-dev-hw/Assignment-06/" method="get">
+                <p>
+                What is your favorite Ice Cream?<br>     
+                <input type="text" name="favIC" size="25"><br><br>
+                Are you a shake or cone person?<br>
+                <input type="radio" name="choice" value="shake"> Shake<br>
+                <input type="radio" name="choice" value="cone"> Cone<br>
+                <input type="radio" name="choice" value="sundae"> Sundaes are for people who want both!<br><br>
+                Any feedback for Big Dipper Ice Cream?<br><br>
+                <textarea name="stories" id="story-textarea" autofocus>Comments...</textarea>
+                </p>
+              </form><br><br>
+
+              <form action="https://possiblepolyhedrons.github.io/web-dev-hw/Assignment-06/" method="post">
+                <p>Send to us!</p>
+                <input type="submit" name="submit" value="Submit!">
+              </form>
 
     </body>
 
